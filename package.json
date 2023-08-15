@@ -1,5 +1,5 @@
 {
-  "name": "coreui-angular-ex",
+  "name": "coreui-angular-ex-dev",
   "version": "4.5.14",
   "description": "CoreUI Components Library for Angular",
   "copyright": "Copyright 2023 creativeLabs Łukasz Holeczek",
@@ -34,7 +34,6 @@
     "lint:icons": "ng lint coreui-icons-angular",
     "link:icons": "cd dist/coreui-icons-angular/ && npm link"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^16.1.8",
     "@angular/cdk": "^16.1.7",
